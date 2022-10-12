@@ -1,0 +1,140 @@
+*{
+  margin: 0;
+  margin-right: 0;
+  padding: 0;
+  font-family: 'League Spartan', sans-serif;
+}
+.header-container{
+  margin-right:0;
+  width: auto;
+  display: flex;
+  padding: 104px 133px 168px 133px;
+  background-color: #F8F8F8;
+}
+.header-title{
+  margin-bottom: 53px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 45px;
+}
+.header-subtitle{
+  margin-bottom: 43px;
+  color: #272727;
+  font-weight: 300;
+  font-size: 250px;
+  line-height:230px;
+}
+.header-img{
+  border: 10px;
+  width: 408px;
+  height: 720px;
+  margin-top: -104px;
+  margin-left: 140px;
+}
+.header-description{
+  width: 575px;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 50px;
+  margin-bottom: 61px;
+}
+.buy-link{
+  display: block;
+  background:black;
+  color: #ffff;
+  height:82px;
+  width: 278px;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 82px;
+  text-align: center;
+  text-decoration: none;
+}
+.buy-link:hover{
+  background: #272727;
+}
+.price{
+  display: block;
+  background: #ffff;
+  color: #272727;
+  height: 82px;
+  width: 143px;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 82px;
+  text-align: center;
+}
+.buy-cont{
+  display: flex;
+}
+.popular{
+  margin-top: 43px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 45px;
+  text-align: center;
+}
+.models{
+  margin-bottom: 84px;
+  font-size: 72px;
+  font-weight: 400;
+  line-height: 82px;
+  text-align: center;
+}
+.card-title{
+  margin-bottom: 17px;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 32px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card-description{
+  width: 531px;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 50px;
+  text-align: center;
+  margin-left: -55px;
+}
+.card-img{
+  margin-bottom: 67px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 417px;
+  height: 630px;
+  background: #F8F8F8;
+}
+.card-wraper{
+  margin: 0 auto;
+  width: 417px;
+  margin-bottom: 85px;
+}
+.prod-discription-wrap{
+  align-items: center;
+  margin: 100px auto;
+  width: 417px;
+  justify-content: center;
+
+}
+.prod-title{
+  text-transform: capitalize;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 60px;
+  text-align: center;
+  margin-bottom: 58px;
+}
+.prod-dicription{
+  width: 417px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 40px;
+  text-align: center;
+}
+.prod-link{
+  text-decoration: none;
+  color: #BB8B5D;
+  font-weight: 400;
+}
