@@ -124,17 +124,24 @@
   font-size: 32px;
   line-height: 60px;
   text-align: center;
-  margin-bottom: 58px;
 }
 .prod-dicription{
-  width: 417px;
+  width: 515px;
   font-weight: 300;
   font-size: 24px;
   line-height: 40px;
   text-align: center;
+  margin-left: -45px;
 }
 .prod-link{
   text-decoration: none;
   color: #BB8B5D;
   font-weight: 400;
+}
+.line{
+  background-color: #272727;
+  width: 300px;
+  height: 4px;
+  margin: 0 auto;
+  margin-bottom: 50px;
 }
